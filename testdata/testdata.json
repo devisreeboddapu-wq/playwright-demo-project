@@ -1,0 +1,8 @@
+
+[
+  { "id": 1, "username": "standard_user", "password": "secret_sauce", "valid": true },
+  { "id": 2, "username": "performance_glitch_user", "password": "secret_sauce", "valid": true },
+  { "id": 3, "username": "locked_out_user", "password": "secret_sauce", "valid": false, "type": "locked" },
+  { "id": 4, "username": "problem_user", "password": "secret_sauce1", "valid": false, "type":  "invalid" },
+  { "id": 5, "username": "error_user1", "password": "secret_sauce1", "valid": false, "type": "invalid" }
+]
