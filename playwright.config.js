@@ -37,6 +37,9 @@ export default defineConfig({
     trace: 'retain-on-failure',
 
     screenshot: 'on',
+
+    headless:false
+
   },
 
   /* Configure projects for major browsers */
